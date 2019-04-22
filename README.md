@@ -13,3 +13,6 @@ The goal of this project is to understand the different types of users through t
 - Random Forests Clasifier (RFC)
 - Gradient Boosting Clasifier (GBC)
 - eXtreme Gradiengt Boosting Clasifier (XGBC)
+
+### Result:
+Excellent accuracy score for the final classification model: 0.987
