@@ -6,7 +6,7 @@ The goal of this project is to understand the different types of users through t
 - Feature engineering and clustering
 - Classification 
 
-### The main algorithms used : 
+### The main algorithms implemented : 
 - Latent Dirichlet Allocation (LDA)
 - Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
 - K-means
