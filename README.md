@@ -15,4 +15,4 @@ The goal of this project is to understand the different types of users through t
 - eXtreme Gradiengt Boosting Clasifier (XGBC)
 
 ### Result:
-Excellent accuracy score for the final classification model: 0.987
+Excellent accuracy score for the final classification model (Gradient Boosting (target variable:Customer_Category_km13 )) : 0.987
